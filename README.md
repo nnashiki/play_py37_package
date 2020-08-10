@@ -62,6 +62,13 @@ python3 -m venv newenv
 (newenv) $ pip install py37nashiki
 ```
 
+後片付け
+
+```
+$ deactivate
+$ rm -rf venv
+$ rm -rf newenv
+```
 
 
 ## License
