@@ -42,7 +42,6 @@ py37nashiki-1.0.0-py3-none-any.whl  py37nashiki-1.0.0.tar.gz
 
 ```
 (venv) $ pip install twine==2.0.0
-(venv) $ twine upload testpypi dist/*
 (venv) $ twine upload -r testpypi dist/*
 (venv) $ pip install -i https://test.pypi.org/simple/ py37nashiki
 ```
