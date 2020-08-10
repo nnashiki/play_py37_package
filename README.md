@@ -15,3 +15,7 @@ play local
 (venv) $ pip install -e .
 (venv) $ pip list
 ```
+
+
+## License
+MIT

@@ -19,7 +19,7 @@ setup(
     python_require='==3.7',
     classifiers=[
         'Environment :: Console',
-        'License :: OSI Approved :: Python Software Foundation License',
+        'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3.7',
         'Operating System :: MacOS :: MacOS X',
     ]
