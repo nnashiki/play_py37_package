@@ -1,5 +1,6 @@
 # play_py37_package
-Python3.7でpackageを作ってみる
+Python3.7 で packageを作ってみる手順。
+またその手順によって作成された、package。
 
 init
 
