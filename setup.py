@@ -15,7 +15,7 @@ setup(
     url='https://github.com/nnashiki/play_py37_package',
     description='This is a test package for me.',
     long_description=long_description,
-    long_description_content_type="text / markdown",
+    long_description_content_type="text/markdown",
     python_require='==3.7',
     classifiers=[
         'Environment :: Console',
